@@ -7,22 +7,22 @@
     "user_comment": "",
     "icon": "https://jeffersonmx.github.io/charural/media/website/image-178.png",
     "author": {
-        "name": "Chá Rural authors"
+        "name": "Chá Rural"
     },
     "items": [
         {
             "id": "https://jeffersonmx.github.io/charural/cha-rural.html",
             "url": "https://jeffersonmx.github.io/charural/cha-rural.html",
-            "title": "Chá Rural",
-            "summary": "cha rural",
-            "content_html": "<p>cha rural</p>\n<p> </p>",
+            "title": "Chá Rural1",
+            "summary": "cha rural2",
+            "content_html": "<p>cha rural2</p>\n<p> </p>",
             "author": {
-                "name": "Chá Rural authors"
+                "name": "Chá Rural"
             },
             "tags": [
             ],
             "date_published": "2023-03-27T23:25:31-03:00",
-            "date_modified": "2023-03-27T23:25:31-03:00"
+            "date_modified": "2023-03-28T10:18:24-03:00"
         }
     ]
 }

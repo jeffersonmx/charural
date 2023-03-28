@@ -3,29 +3,29 @@
     <title>Chá Rural</title>
     <link href="https://jeffersonmx.github.io/charural/feed.xml" rel="self" />
     <link href="https://jeffersonmx.github.io/charural" />
-    <updated>2023-03-27T23:25:31-03:00</updated>
+    <updated>2023-03-28T10:18:24-03:00</updated>
     <author>
-        <name>Chá Rural authors</name>
+        <name>Chá Rural</name>
     </author>
     <id>https://jeffersonmx.github.io/charural</id>
 
     <entry>
-        <title>Chá Rural</title>
+        <title>Chá Rural1</title>
         <author>
-            <name>Chá Rural authors</name>
+            <name>Chá Rural</name>
         </author>
         <link href="https://jeffersonmx.github.io/charural/cha-rural.html"/>
         <id>https://jeffersonmx.github.io/charural/cha-rural.html</id>
 
-        <updated>2023-03-27T23:25:31-03:00</updated>
+        <updated>2023-03-28T10:18:24-03:00</updated>
             <summary>
                 <![CDATA[
-                    cha rural
+                    cha rural2
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>cha rural</p>
+                <p>cha rural2</p>
 <p> </p>
             ]]>
         </content>
