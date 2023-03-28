@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chá Rural",
+    "description": "",
+    "home_page_url": "https://jeffersonmx.github.io/charural",
+    "feed_url": "https://jeffersonmx.github.io/charural/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Chá Rural"
+    },
+    "items": [
+        {
+            "id": "https://jeffersonmx.github.io/charural/cha-rural.html",
+            "url": "https://jeffersonmx.github.io/charural/cha-rural.html",
+            "title": "Chá Rural",
+            "summary": "cha rural",
+            "content_html": "<p>cha rural</p>\n<p> </p>",
+            "author": {
+                "name": "Chá Rural"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-27T23:25:31-03:00",
+            "date_modified": "2023-03-27T23:25:31-03:00"
+        }
+    ]
+}

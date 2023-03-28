@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Chá Rural</title>
+    <link href="https://jeffersonmx.github.io/charural/feed.xml" rel="self" />
+    <link href="https://jeffersonmx.github.io/charural" />
+    <updated>2023-03-27T23:25:31-03:00</updated>
+    <author>
+        <name>Chá Rural</name>
+    </author>
+    <id>https://jeffersonmx.github.io/charural</id>
+
+    <entry>
+        <title>Chá Rural</title>
+        <author>
+            <name>Chá Rural</name>
+        </author>
+        <link href="https://jeffersonmx.github.io/charural/cha-rural.html"/>
+        <id>https://jeffersonmx.github.io/charural/cha-rural.html</id>
+
+        <updated>2023-03-27T23:25:31-03:00</updated>
+            <summary>
+                <![CDATA[
+                    cha rural
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>cha rural</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
