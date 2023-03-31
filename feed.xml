@@ -3,7 +3,7 @@
     <title>Chá Rural</title>
     <link href="https://jeffersonmx.github.io/charural/feed.xml" rel="self" />
     <link href="https://jeffersonmx.github.io/charural" />
-    <updated>2023-03-30T15:34:40-03:00</updated>
+    <updated>2023-03-31T13:07:19-03:00</updated>
     <author>
         <name>Chá Rural</name>
     </author>
@@ -17,31 +17,25 @@
         <link href="https://jeffersonmx.github.io/charural/cha-rural-quem-somos.html"/>
         <id>https://jeffersonmx.github.io/charural/cha-rural-quem-somos.html</id>
 
-        <updated>2023-03-30T15:34:40-03:00</updated>
+        <updated>2023-03-31T13:07:19-03:00</updated>
             <summary>
                 <![CDATA[
-                    Propósito: O propósito da Chá Rural é oferecer chás naturais de qualidade, cultivados de forma responsável e sustentável, que conectem as pessoas à natureza e promovam o bem-estar e a saúde. Personalidade da marca: A marca Chá Rural é autêntica, simples, acolhedora e conectada à natureza. Ela valoriza a qualidade e a pureza dos seus produtos, bem como a relação sustentável com a terra e as comunidades locais. Tom de voz: O tom de voz da marca Chá Rural é autêntico, próximo e informativo. A marca busca estabelecer um diálogo aberto e transparente com seus clientes, compartilhando informações relevantes sobre&hellip;
+                    Propósito: O propósito da Chá Rural é oferecer chás orgânicos de qualidade, cultivados de forma responsável e sustentável, que conectem as pessoas à natureza e promovam o bem-estar e a saúde. Personalidade da marca: A marca Chá Rural é autêntica, simples, acolhedora e conectada à natureza. Ela valoriza a qualidade, a pureza e a origem orgânica dos seus produtos, bem como a relação sustentável com a terra e as comunidades locais. Tom de voz: O tom de voz da marca Chá Rural é autêntico, próximo e informativo. A marca busca estabelecer um diálogo aberto e transparente com seus clientes, compartilhando&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <ol>
-<li>
-<p>Propósito: O propósito da Chá Rural é oferecer chás naturais de qualidade, cultivados de forma responsável e sustentável, que conectem as pessoas à natureza e promovam o bem-estar e a saúde.</p>
-</li>
-<li>
-<p>Personalidade da marca: A marca Chá Rural é autêntica, simples, acolhedora e conectada à natureza. Ela valoriza a qualidade e a pureza dos seus produtos, bem como a relação sustentável com a terra e as comunidades locais.</p>
-</li>
-<li>
-<p>Tom de voz: O tom de voz da marca Chá Rural é autêntico, próximo e informativo. A marca busca estabelecer um diálogo aberto e transparente com seus clientes, compartilhando informações relevantes sobre seus produtos, origem e processo de produção.</p>
-</li>
-<li>
-<p>Valores: Os valores da Chá Rural são sustentabilidade, qualidade, autenticidade, conexão com a natureza e respeito às comunidades locais. A marca se dedica a cultivar e oferecer produtos naturais de alta qualidade, de forma responsável e sustentável, conectando as pessoas à natureza e valorizando o trabalho das comunidades locais envolvidas em todo o processo.</p>
-</li>
-<li>
-<p>Posicionamento: A Chá Rural se posiciona como uma marca de chás naturais de alta qualidade e origem responsável, que valoriza a relação sustentável com a terra e as comunidades locais, oferecendo uma ampla variedade de produtos autênticos e saudáveis, que promovem a conexão com a natureza e o bem-estar.</p>
-</li>
-</ol>
+                <div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Propósito: O propósito da Chá Rural é oferecer chás orgânicos de qualidade, cultivados de forma responsável e sustentável, que conectem as pessoas à natureza e promovam o bem-estar e a saúde.</p>
+<p>Personalidade da marca: A marca Chá Rural é autêntica, simples, acolhedora e conectada à natureza. Ela valoriza a qualidade, a pureza e a origem orgânica dos seus produtos, bem como a relação sustentável com a terra e as comunidades locais.</p>
+<p>Tom de voz: O tom de voz da marca Chá Rural é autêntico, próximo e informativo. A marca busca estabelecer um diálogo aberto e transparente com seus clientes, compartilhando informações relevantes sobre seus produtos orgânicos, origem e processo de produção.</p>
+<p>Valores: Os valores da Chá Rural são sustentabilidade, qualidade, autenticidade, conexão com a natureza e respeito às comunidades locais. A marca se dedica a cultivar e oferecer produtos orgânicos de alta qualidade, de forma responsável e sustentável, conectando as pessoas à natureza e valorizando o trabalho das comunidades locais envolvidas em todo o processo.</p>
+<p>Posicionamento: A Chá Rural se posiciona como uma marca de chás orgânicos de alta qualidade e origem responsável, que valoriza a relação sustentável com a terra e as comunidades locais, oferecendo uma ampla variedade de produtos autênticos e saudáveis, que promovem a conexão com a natureza e o bem-estar.</p>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
