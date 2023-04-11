@@ -11,6 +11,19 @@
     },
     "items": [
         {
+            "id": "https://jeffersonmx.github.io/charural/emagrecedores/",
+            "url": "https://jeffersonmx.github.io/charural/emagrecedores/",
+            "title": "Emagrecedores",
+            "author": {
+                "name": "Chá Rural"
+            },
+            "tags": [
+                   "Produtos"
+            ],
+            "date_published": "2023-04-11T17:16:14-03:00",
+            "date_modified": "2023-04-11T17:16:54-03:00"
+        },
+        {
             "id": "https://jeffersonmx.github.io/charural/hhhh/",
             "url": "https://jeffersonmx.github.io/charural/hhhh/",
             "title": "hhhh",
@@ -27,15 +40,17 @@
         {
             "id": "https://jeffersonmx.github.io/charural/auxilio-ao-emagrecismento/",
             "url": "https://jeffersonmx.github.io/charural/auxilio-ao-emagrecismento/",
-            "title": "Auxílio ao emagrecismento",
+            "title": "Chás emagrecedores",
+            "summary": "Com a busca constante pela perda de peso e a adoção de hábitos mais saudáveis, muitas pessoas recorrem a diferentes estratégias para alcançar seus objetivos. Dentre essas estratégias, a utilização de chás é uma das mais comuns. Além de oferecerem sabor e aroma agradáveis, alguns chás possuem propriedades que podem ajudar no emagrecimento, seja acelerando o metabolismo, aumentando a queima de gordura ou controlando o apetite. Entre os chás que podem auxiliar no processo de emagrecimento, destaca-se o chá verde, que contém catequinas, compostos bioativos que atuam no organismo estimulando a queima de gordura e reduzindo a absorção de gorduras&hellip;",
+            "content_html": "<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p>Com a busca constante pela perda de peso e a adoção de hábitos mais saudáveis, muitas pessoas recorrem a diferentes estratégias para alcançar seus objetivos. Dentre essas estratégias, a utilização de chás é uma das mais comuns. Além de oferecerem sabor e aroma agradáveis, alguns chás possuem propriedades que podem ajudar no emagrecimento, seja acelerando o metabolismo, aumentando a queima de gordura ou controlando o apetite.</p>\n<p>Entre os chás que podem auxiliar no processo de emagrecimento, destaca-se o chá verde, que contém catequinas, compostos bioativos que atuam no organismo estimulando a queima de gordura e reduzindo a absorção de gorduras no intestino. O chá de hibisco também é bastante popular por suas propriedades antioxidantes e diuréticas, que podem auxiliar na eliminação de toxinas e na redução da retenção de líquidos, além de possivelmente diminuir a absorção de gorduras e carboidratos. Outros chás, como o de gengibre, canela e cavalinha, também são conhecidos por suas propriedades termogênicas, que ajudam a aumentar o gasto calórico e acelerar o metabolismo.</p>\n<p>É importante ressaltar, no entanto, que a adoção de chás isoladamente não é suficiente para alcançar resultados significativos no emagrecimento. Uma alimentação equilibrada e a prática regular de exercícios físicos são fundamentais para um emagrecimento saudável e duradouro. Além disso, é importante que os chás sejam consumidos de forma moderada, pois em excesso podem causar efeitos colaterais e interferir na absorção de nutrientes.</p>\n<p>Em resumo, alguns chás podem ser aliados no processo de emagrecimento, proporcionando benefícios para o organismo e ajudando a acelerar o metabolismo. No entanto, é importante que seu consumo esteja associado a hábitos saudáveis, como uma alimentação equilibrada e a prática regular de exercícios físicos. Antes de iniciar o consumo de qualquer chá, é sempre recomendado buscar orientação de um profissional da saúde para avaliar possíveis riscos e contraindicações.<br><br></p>\n<div class=\"flex flex-grow flex-col gap-3\">\n<div class=\"min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap\">\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\n<p>Existem diversos chás que são apontados como auxiliares no processo de emagrecimento. Abaixo, listo 10 deles:</p>\n<ol>\n<li>Chá verde</li>\n<li>Chá de hibisco</li>\n<li>Chá de canela</li>\n<li>Chá de gengibre</li>\n<li>Chá de cavalinha</li>\n<li>Chá de dente-de-leão</li>\n<li>Chá de carqueja</li>\n<li>Chá de camomila</li>\n<li>Chá de erva-mate</li>\n<li>Chá de alecrim</li>\n</ol>\n<p>É importante lembrar que, por mais que esses chás possam ser benéficos para a perda de peso, eles não devem substituir uma alimentação equilibrada e a prática regular de exercícios físicos.</p>\n<p>Abaixo, segue duas referências bibliográficas que abordam o tema:</p>\n<ul>\n<li>\n<p>Rains, T.M., Agarwal, S., &amp; Maki, K.C. (2011). Antiobesity effects of green tea catechins: a mechanistic review. Journal of Nutritional Biochemistry, 22(1), 1-7. doi: 10.1016/j.jnutbio.2010.06.006</p>\n</li>\n<li>\n<p>McKay, D.L., &amp; Blumberg, J.B. (2006). A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.). Phytotherapy Research, 20(7), 519-530. doi: 10.1002/ptr.1900</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>",
             "author": {
                 "name": "Chá Rural"
             },
             "tags": [
-                   "Produtos"
+                   "Blog"
             ],
             "date_published": "2023-03-31T17:37:53-03:00",
-            "date_modified": "2023-03-31T17:37:53-03:00"
+            "date_modified": "2023-04-11T17:17:07-03:00"
         },
         {
             "id": "https://jeffersonmx.github.io/charural/relaxantes/",
@@ -131,20 +146,6 @@
             ],
             "date_published": "2023-03-29T13:30:33-03:00",
             "date_modified": "2023-03-31T14:41:00-03:00"
-        },
-        {
-            "id": "https://jeffersonmx.github.io/charural/10-chas-ajuda-a-aumentar-a-imunidade/",
-            "url": "https://jeffersonmx.github.io/charural/10-chas-ajuda-a-aumentar-a-imunidade/",
-            "title": "10 chás ajuda a aumentar a imunidade",
-            "summary": "Manter o sistema imunológico forte e saudável é essencial para prevenir e combater doenças. Além de uma alimentação equilibrada e prática de atividades físicas, alguns chás podem ser incluídos na dieta para ajudar a aumentar a imunidade. O melhor de tudo é que os ingredientes desses chás são facilmente encontrados no Brasil, tornando-os acessíveis a todos. Aqui estão 10 chás que podem ajudar a aumentar a imunidade e podem ser encontrados no Brasil: Embora esses chás possam ajudar a aumentar a imunidade, é importante lembrar que eles não substituem uma dieta saudável e equilibrada e outros hábitos de vida saudáveis.",
-            "content_html": "<p>Manter o sistema imunológico forte e saudável é essencial para prevenir e combater doenças. Além de uma alimentação equilibrada e prática de atividades físicas, alguns chás podem ser incluídos na dieta para ajudar a aumentar a imunidade. O melhor de tudo é que os ingredientes desses chás são facilmente encontrados no Brasil, tornando-os acessíveis a todos.</p>\n<p>Aqui estão 10 chás que podem ajudar a aumentar a imunidade e podem ser encontrados no Brasil:</p>\n<ol>\n<li>Chá verde</li>\n<li>Chá preto</li>\n<li>Chá de equinácea</li>\n<li>Chá de alho</li>\n<li>Chá de gengibre</li>\n<li>Chá de cúrcuma</li>\n<li>Chá de hortelã</li>\n<li>Chá de camomila</li>\n<li>Chá de manjericão</li>\n<li>Chá de açafrão</li>\n</ol>\n<p><br>Embora esses chás possam ajudar a aumentar a imunidade, é importante lembrar que eles não substituem uma dieta saudável e equilibrada e outros hábitos de vida saudáveis. Além disso, é sempre recomendável consultar um profissional de saúde antes de fazer qualquer mudança significativa na dieta. Combinados com hábitos saudáveis e uma dieta equilibrada, esses chás podem ser uma adição saborosa e benéfica à sua rotina diária.</p>\n<p>Referência:<br>Vandana, K. R., Singh, S., &amp; Patel, S. K. S. (2021). Immunity Boosting Potential of Herbal Tea–A Review. International Journal of Chemical Studies, 9(2), 1956-1961.<br><br></p>",
-            "author": {
-                "name": "Chá Rural"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-29T13:02:55-03:00",
-            "date_modified": "2023-03-29T13:02:55-03:00"
         }
     ]
 }

@@ -3,12 +3,25 @@
     <title>Chá Rural</title>
     <link href="https://jeffersonmx.github.io/charural/feed.xml" rel="self" />
     <link href="https://jeffersonmx.github.io/charural" />
-    <updated>2023-03-31T17:42:10-03:00</updated>
+    <updated>2023-04-11T17:17:07-03:00</updated>
     <author>
         <name>Chá Rural</name>
     </author>
     <id>https://jeffersonmx.github.io/charural</id>
 
+    <entry>
+        <title>Emagrecedores</title>
+        <author>
+            <name>Chá Rural</name>
+        </author>
+        <link href="https://jeffersonmx.github.io/charural/emagrecedores/"/>
+        <id>https://jeffersonmx.github.io/charural/emagrecedores/</id>
+            <category term="Produtos"/>
+
+        <updated>2023-04-11T17:16:54-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>hhhh</title>
         <author>
@@ -91,17 +104,63 @@
         </content>
     </entry>
     <entry>
-        <title>Auxílio ao emagrecismento</title>
+        <title>Chás emagrecedores</title>
         <author>
             <name>Chá Rural</name>
         </author>
         <link href="https://jeffersonmx.github.io/charural/auxilio-ao-emagrecismento/"/>
         <id>https://jeffersonmx.github.io/charural/auxilio-ao-emagrecismento/</id>
-            <category term="Produtos"/>
+            <category term="Blog"/>
 
-        <updated>2023-03-31T17:37:53-03:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2023-04-11T17:17:07-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Com a busca constante pela perda de peso e a adoção de hábitos mais saudáveis, muitas pessoas recorrem a diferentes estratégias para alcançar seus objetivos. Dentre essas estratégias, a utilização de chás é uma das mais comuns. Além de oferecerem sabor e aroma agradáveis, alguns chás possuem propriedades que podem ajudar no emagrecimento, seja acelerando o metabolismo, aumentando a queima de gordura ou controlando o apetite. Entre os chás que podem auxiliar no processo de emagrecimento, destaca-se o chá verde, que contém catequinas, compostos bioativos que atuam no organismo estimulando a queima de gordura e reduzindo a absorção de gorduras&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Com a busca constante pela perda de peso e a adoção de hábitos mais saudáveis, muitas pessoas recorrem a diferentes estratégias para alcançar seus objetivos. Dentre essas estratégias, a utilização de chás é uma das mais comuns. Além de oferecerem sabor e aroma agradáveis, alguns chás possuem propriedades que podem ajudar no emagrecimento, seja acelerando o metabolismo, aumentando a queima de gordura ou controlando o apetite.</p>
+<p>Entre os chás que podem auxiliar no processo de emagrecimento, destaca-se o chá verde, que contém catequinas, compostos bioativos que atuam no organismo estimulando a queima de gordura e reduzindo a absorção de gorduras no intestino. O chá de hibisco também é bastante popular por suas propriedades antioxidantes e diuréticas, que podem auxiliar na eliminação de toxinas e na redução da retenção de líquidos, além de possivelmente diminuir a absorção de gorduras e carboidratos. Outros chás, como o de gengibre, canela e cavalinha, também são conhecidos por suas propriedades termogênicas, que ajudam a aumentar o gasto calórico e acelerar o metabolismo.</p>
+<p>É importante ressaltar, no entanto, que a adoção de chás isoladamente não é suficiente para alcançar resultados significativos no emagrecimento. Uma alimentação equilibrada e a prática regular de exercícios físicos são fundamentais para um emagrecimento saudável e duradouro. Além disso, é importante que os chás sejam consumidos de forma moderada, pois em excesso podem causar efeitos colaterais e interferir na absorção de nutrientes.</p>
+<p>Em resumo, alguns chás podem ser aliados no processo de emagrecimento, proporcionando benefícios para o organismo e ajudando a acelerar o metabolismo. No entanto, é importante que seu consumo esteja associado a hábitos saudáveis, como uma alimentação equilibrada e a prática regular de exercícios físicos. Antes de iniciar o consumo de qualquer chá, é sempre recomendado buscar orientação de um profissional da saúde para avaliar possíveis riscos e contraindicações.<br><br></p>
+<div class="flex flex-grow flex-col gap-3">
+<div class="min-h-[20px] flex flex-col items-start gap-4 whitespace-pre-wrap">
+<div class="markdown prose w-full break-words dark:prose-invert dark">
+<p>Existem diversos chás que são apontados como auxiliares no processo de emagrecimento. Abaixo, listo 10 deles:</p>
+<ol>
+<li>Chá verde</li>
+<li>Chá de hibisco</li>
+<li>Chá de canela</li>
+<li>Chá de gengibre</li>
+<li>Chá de cavalinha</li>
+<li>Chá de dente-de-leão</li>
+<li>Chá de carqueja</li>
+<li>Chá de camomila</li>
+<li>Chá de erva-mate</li>
+<li>Chá de alecrim</li>
+</ol>
+<p>É importante lembrar que, por mais que esses chás possam ser benéficos para a perda de peso, eles não devem substituir uma alimentação equilibrada e a prática regular de exercícios físicos.</p>
+<p>Abaixo, segue duas referências bibliográficas que abordam o tema:</p>
+<ul>
+<li>
+<p>Rains, T.M., Agarwal, S., &amp; Maki, K.C. (2011). Antiobesity effects of green tea catechins: a mechanistic review. Journal of Nutritional Biochemistry, 22(1), 1-7. doi: 10.1016/j.jnutbio.2010.06.006</p>
+</li>
+<li>
+<p>McKay, D.L., &amp; Blumberg, J.B. (2006). A review of the bioactivity and potential health benefits of chamomile tea (Matricaria recutita L.). Phytotherapy Research, 20(7), 519-530. doi: 10.1002/ptr.1900</p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Relaxantes</title>
@@ -260,41 +319,6 @@
 </div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>10 chás ajuda a aumentar a imunidade</title>
-        <author>
-            <name>Chá Rural</name>
-        </author>
-        <link href="https://jeffersonmx.github.io/charural/10-chas-ajuda-a-aumentar-a-imunidade/"/>
-        <id>https://jeffersonmx.github.io/charural/10-chas-ajuda-a-aumentar-a-imunidade/</id>
-
-        <updated>2023-03-29T13:02:55-03:00</updated>
-            <summary>
-                <![CDATA[
-                    Manter o sistema imunológico forte e saudável é essencial para prevenir e combater doenças. Além de uma alimentação equilibrada e prática de atividades físicas, alguns chás podem ser incluídos na dieta para ajudar a aumentar a imunidade. O melhor de tudo é que os ingredientes desses chás são facilmente encontrados no Brasil, tornando-os acessíveis a todos. Aqui estão 10 chás que podem ajudar a aumentar a imunidade e podem ser encontrados no Brasil: Embora esses chás possam ajudar a aumentar a imunidade, é importante lembrar que eles não substituem uma dieta saudável e equilibrada e outros hábitos de vida saudáveis.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Manter o sistema imunológico forte e saudável é essencial para prevenir e combater doenças. Além de uma alimentação equilibrada e prática de atividades físicas, alguns chás podem ser incluídos na dieta para ajudar a aumentar a imunidade. O melhor de tudo é que os ingredientes desses chás são facilmente encontrados no Brasil, tornando-os acessíveis a todos.</p>
-<p>Aqui estão 10 chás que podem ajudar a aumentar a imunidade e podem ser encontrados no Brasil:</p>
-<ol>
-<li>Chá verde</li>
-<li>Chá preto</li>
-<li>Chá de equinácea</li>
-<li>Chá de alho</li>
-<li>Chá de gengibre</li>
-<li>Chá de cúrcuma</li>
-<li>Chá de hortelã</li>
-<li>Chá de camomila</li>
-<li>Chá de manjericão</li>
-<li>Chá de açafrão</li>
-</ol>
-<p><br>Embora esses chás possam ajudar a aumentar a imunidade, é importante lembrar que eles não substituem uma dieta saudável e equilibrada e outros hábitos de vida saudáveis. Além disso, é sempre recomendável consultar um profissional de saúde antes de fazer qualquer mudança significativa na dieta. Combinados com hábitos saudáveis e uma dieta equilibrada, esses chás podem ser uma adição saborosa e benéfica à sua rotina diária.</p>
-<p>Referência:<br>Vandana, K. R., Singh, S., &amp; Patel, S. K. S. (2021). Immunity Boosting Potential of Herbal Tea–A Review. International Journal of Chemical Studies, 9(2), 1956-1961.<br><br></p>
             ]]>
         </content>
     </entry>
